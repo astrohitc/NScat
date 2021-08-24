@@ -12,7 +12,7 @@
 #
 import sys
 import os
-import mag_pip_rc1
+#import mag_pip_rc1
 sys.path.insert(0, os.path.abspath('../../McGill-Manetar_Catalog'))
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
