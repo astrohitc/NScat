@@ -20,9 +20,9 @@ sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
 
 # -- Project information -----------------------------------------------------
 
-project = 'test'
-copyright = '2021, Rohit, Satyajit'
-author = 'Rohit, Satyajit'
+project = u'Magcat'
+copyright = u'2021, Rohit, Satyajit'
+author = u'Rohit, Satyajit'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
