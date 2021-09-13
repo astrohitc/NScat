@@ -53,6 +53,7 @@ The requirements for installing the code are:
  * :mod:`numpy`
  * :mod:`io`
  * :mod:`matplotlib`
+ * :mod:`rich`
  
 
 
@@ -77,17 +78,20 @@ The package will display the names, spin periods and magnetic fields of these ma
   :width: 400
   
 
+
 For single input:
 
 .. image:: sin_input.png
   :width: 400
-  
+
+
 
 For multiple  inputs:
 
 .. image:: mul_input.png
   :width: 400
-  
+
+
 
 For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, if given 'y' then another input needs to be given by specifying the <filename>.csv
 
