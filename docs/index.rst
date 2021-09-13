@@ -66,13 +66,7 @@ Downloading the full database can be simply achieved via
     >>> from mag_pip_rci import code
     >>> mag = code.mag1()
     
-    
    
-To search by specifying condition of parameters(in this e.g-spin period)
-
-   >>> mag.loc[(mag['Period < 5']), ['Name', 'Period']]
-   
-   >>> mag.loc[(mag['Name'] == '1E 1841-045'), ['Name', 'RA', 'Decl','Age','Ref_Radio', 'Ref_MidIR', 'Assoc', 'SNRAge']]    
    
    
    
@@ -85,7 +79,7 @@ The package will display the names, spin periods and magnetic fields of these ma
 
 For single input:
 
-.. image:: pckg_2(single input).png
+.. image:: sin_input.png
   :width: 400
   
 
