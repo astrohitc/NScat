@@ -79,4 +79,5 @@ To search by specifying condition of parameters(in this e.g-spin period)
   :width: 400
   
 .. image:: git.jpg
+  :width: 400
  
