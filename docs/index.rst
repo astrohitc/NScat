@@ -64,7 +64,7 @@ Examples
 Downloading the full database can be simply achieved via
 
     >>> from mag_pip_rci import code
-    >>> mag = code.mag()
+    >>> mag = code.mag1()
     
     
    
@@ -75,9 +75,28 @@ To search by specifying condition of parameters(in this e.g-spin period)
    >>> mag.loc[(mag['Name'] == '1E 1841-045'), ['Name', 'RA', 'Decl','Age','Ref_Radio', 'Ref_MidIR', 'Assoc', 'SNRAge']]    
    
    
-.. image:: docs/git.jpg/git.jpg
+   
+The package will display the names, spin periods and magnetic fields of these magnetars and ask the user to give an input for querying single or multiple parameters. Type 's' for single and 'm' for multiple.
+  
+  
+.. image:: pckg_1.png
   :width: 400
   
-.. image:: git.jpg
+
+For single input:
+
+.. image:: pckg_2(single input).png
   :width: 400
- 
+  
+
+For multiple  inputs:
+
+.. image:: mul_input.png
+  :width: 400
+  
+
+For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, if given 'y' then another input needs to be given by specifying the <filename>.csv
+
+.. image:: csv_save.png
+  :width: 400
+  
