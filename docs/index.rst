@@ -75,7 +75,7 @@ To search by specifying condition of parameters(in this e.g-spin period)
    >>> mag.loc[(mag['Name'] == '1E 1841-045'), ['Name', 'RA', 'Decl','Age','Ref_Radio', 'Ref_MidIR', 'Assoc', 'SNRAge']]    
    
    
-.. image:: path/filename.png
+.. image:: docs/git.jpg/git.jpg
   :width: 400
   :alt: Alternative text
  
