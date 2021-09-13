@@ -77,5 +77,5 @@ To search by specifying condition of parameters(in this e.g-spin period)
    
 .. image:: docs/git.jpg/git.jpg
   :width: 400
-  :alt: Alternative text
+  
  
