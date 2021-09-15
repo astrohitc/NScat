@@ -75,8 +75,13 @@ The package will display the names, spin periods and magnetic fields of these ma
   :width: 2000
   
   
-.. image:: pckg_1a.png
+
+The parameters that can be queried are:
+
+
+.. image:: params.png
   :width: 2000  
+
 
 
 For single input:
@@ -93,11 +98,14 @@ For multiple  inputs:
 
 
 
+
 For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, ifv given 'y' then another input needs to be given by specifying the <filename>.csv
 
 .. image:: csv_save.png
   :width: 2000
-  
+
+
+
   
 If you want to save the table as a csv file, please write the <filename>.csv  
 
