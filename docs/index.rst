@@ -10,9 +10,6 @@
 The McGill-Magnetar-Catalog
 ==================
 
-.. automodule:: magcat
-
-
 
 This python package is used for querying the McGill magnetar catalog,  (Olausen & Kaspi, 2014), and please refer to the URL (http://www.physics.mcgill.ca/~pulsar/magnetar/main.html).
 
@@ -75,26 +72,26 @@ The package will display the names, spin periods and magnetic fields of these ma
   
   
 .. image:: pckg_1.png
-  :width: 400
+  :width: 800
   
 
 
 For single input:
 
 .. image:: sin_input.png
-  :width: 400
+  :width: 800
 
 
 
 For multiple  inputs:
 
 .. image:: mul_input.png
-  :width: 400
+  :width: 800
 
 
 
 For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, if given 'y' then another input needs to be given by specifying the <filename>.csv
 
 .. image:: csv_save.png
-  :width: 400
+  :width: 800
   
