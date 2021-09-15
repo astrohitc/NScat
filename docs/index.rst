@@ -84,29 +84,46 @@ The parameters that can be queried are:
 
 
 
+
+
+
+
 For single input:
 
-.. image:: sin_input.png
+.. image:: input_single_1.png
   :width: 2000
+
+
+
+
+
 
 
 
 For multiple  inputs:
 
-.. image:: mul_input.png
+.. image:: mul_input_1.png
   :width: 2000
+
+
+
+
+
 
 
 
 
 For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, ifv given 'y' then another input needs to be given by specifying the <filename>.csv
 
-.. image:: csv_save.png
+.. image:: csv_save_1.png
   :width: 2000
 
 
 
-  
+ 
+ 
+ 
+ 
 If you want to save the table as a csv file, please write the <filename>.csv  
 
 .. image:: save_csv1.png
