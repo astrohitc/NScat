@@ -80,7 +80,7 @@ The parameters that can be queried are:
 
 
 .. image:: params.png
-  :width: 2000  
+  :width: 1400 
 
 
 
