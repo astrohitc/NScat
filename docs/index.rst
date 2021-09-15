@@ -90,8 +90,14 @@ For multiple  inputs:
 
 
 
-For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, if given 'y' then another input needs to be given by specifying the <filename>.csv
+For saving the queried table as a CSV file, the user will be asked to type 'y' or 'n' in case he wants to save it, ifv given 'y' then another input needs to be given by specifying the <filename>.csv
 
 .. image:: csv_save.png
+  :width: 800
+  
+  
+If you want to save the table as a csv file, please write the <filename>.csv  
+
+.. image:: save_csv1.png
   :width: 800
   
