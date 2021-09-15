@@ -68,12 +68,15 @@ Downloading the full database can be simply achieved via
    
    
    
-The package will display the names, spin periods and magnetic fields of these magnetars and ask the user to give an input for querying single or multiple parameters. Type 's' for single and 'm' for multiple.
+The package will display the names, spin periods and magnetic fields of these magnetars and ask the user to give an input for querying single or multiple parameters. Type 's' for single and 'm' for multiple. You will be able to see a list of parameters that can be queried in this package.
   
   
-.. image:: pckg_1.png
+.. image:: pckg_1a.png
   :width: 2000
   
+  
+.. image:: pckg_1a.png
+  :width: 2000  
 
 
 For single input:
