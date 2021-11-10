@@ -128,4 +128,16 @@ If you want to save the table as a csv file, please write the <filename>.csv
 
 .. image:: save_csv1.png
   :width: 1500
-  
+
+
+
+The user can also qyery the P-B plot and P-Pdot plot for these magnetars.
+
+.. image:: asking_plots.png
+  :width: 1500
+
+
+The plots after querying
+
+.. image:: plots.png
+  :width: 1500
