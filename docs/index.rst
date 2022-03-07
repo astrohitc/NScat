@@ -7,19 +7,19 @@
 
 .. _reference:
 
-The McGill-Magnetar-Catalog
+NScat - a python package to query neutron star parameters from publicly available databases.
 ==================
 
 
-This python package is used for querying the McGill magnetar catalog,  (Olausen & Kaspi, 2014), and please refer to the URL (http://www.physics.mcgill.ca/~pulsar/magnetar/main.html).
+This python package is used for querying neutron star parameters from various publicly available databases. One of the databases we are queying is the McGill magnetar catalog  (Olausen & Kaspi, 2014), and please refer to the URL (http://www.physics.mcgill.ca/~pulsar/magnetar/main.html).
 
 While using the catalog from the specified URL, the user neither has an option to search directly nor can search by specifying any conditions on the parameters of magnetars. 
 
-This package attempts to solve this problem. It provides a python interface to the user to query the McGill Magnetar Catalog. 
+This package attempts to solve this problem. It provides a python interface to the user to query the McGill Magnetar Catalog and will provide for several databases in the future. 
+ 
 
-We also plan to add a graph plotter. 
+It is neither affiliated nor endorsed by the Magnetar group at McGill University or any other group and university. 
 
-It is neither affiliated nor endorsed by the Magnetar group at McGill University. 
 
 Comments and suggestions are welcome. This package is under development. 
 
