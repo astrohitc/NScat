@@ -11,7 +11,7 @@ NScat - a python package to query neutron star parameters from publicly availabl
 ==================
 
 
-This python package is used for querying neutron star parameters from various publicly available databases. One of the databases we are queying is the McGill magnetar catalog  (Olausen & Kaspi, 2014), and please refer to the URL (http://www.physics.mcgill.ca/~pulsar/magnetar/main.html).
+This python package is used for querying neutron star parameters from various publicly available databases. One of the databases we are queying right now is the McGill magnetar catalog  (Olausen & Kaspi, 2014), and please refer to the URL (http://www.physics.mcgill.ca/~pulsar/magnetar/main.html).
 
 While using the catalog from the specified URL, the user neither has an option to search directly nor can search by specifying any conditions on the parameters of magnetars. 
 
@@ -61,8 +61,10 @@ Examples
 
 Downloading the full database can be simply achieved via
 
-    >>> from mag_pip_rci import code
-    >>> mag = code.mag1()
+    >>> from NScat import query
+    >>> mag = query.mag1()
+    
+    
     
    
    
