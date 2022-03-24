@@ -29,11 +29,10 @@ Comments and suggestions are welcome. This package is under development.
 Installation
 ============
 
-This package is right now uploaded on the test instance of PyPI so it can be installed using the following command:-
-
+The package is pip installable and can be installed using the code given below
 This command can be run on the Ananconda prompt on Windows and the Linux terminal for Linux users. The can package can installed using::
          
-                     ``pip install -i https://test.pypi.org/simple/ mag-pip-rc1`` 
+                     ``pip install NScat`` 
 
 
 
