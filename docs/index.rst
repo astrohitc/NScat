@@ -23,6 +23,8 @@ It is neither affiliated nor endorsed by the Magnetar group at McGill University
 
 Comments and suggestions are welcome. This package is under development. 
 
+Please feel free to contact Rohit Chinchwadkar (chinchwadkarrohit4@gmail.com) for feedback and suggestions.
+
 
 
 
